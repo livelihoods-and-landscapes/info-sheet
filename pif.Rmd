@@ -1,0 +1,62 @@
+---
+title: "Participant Information Sheet"
+pagetitle: "PIF"
+output:
+  html_document:
+    theme: cosmo
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## <b>Project title: Climate-smart landscapes for promoting sustainability of Pacific Island agricultural systems</b>
+
+## Invitation: 
+
+You are invited to participate in a project: Climate-smart landscapes for promoting sustainability of Pacific Island agricultural systems. We are developing an application that can be downloaded onto mobile phones and tablets and accessed via personal computers to enable collection and visualization of geospatial data to support climate-resilient landscape management. 
+
+As you use the application, we invite you to provide feedback based on your user experience. This feedback will be invaluable in helping us develop the platform and ensure its fitness for purpose.
+
+## Aim of the Study (What is the project about?)
+
+This research aims to develop a geospatial application that can be used on mobile phones, tablets, and personal computers to facilitate collection and visualisation of information about how the landscape is used and impacted by climatic events. This application will enable people to digitise features on the landscape using a mobile mapping application, record information about these features using a digital survey style form, submit this data to a central database, and visualise and analyse the data using interactive data visualisation software. Example uses of this application include surveying farms, reporting on agricultural land use, land cover mapping, and mapping forestry and timber extraction activities. 
+
+## What does participation involve?
+
+We hope that you will be able to provide information about your experience using this mobile application which researchers and developers can use to make technical improvements, bug fixes, and inform updates and the development of new functionalities. 
+
+All feedback provided will be kept in confidence, in a password protected environment, and will be anonymized in outputs, and reporting and documenting the reasons for software updates. Information will be gathered through informal and context-specific discussions with researchers. We will not collect or record any personal information or any information that could identify you. 
+
+## Voluntary Participation and Withdrawal from the Study
+Participation in this research is voluntary; you may withdraw at any time. Data will be destroyed after withdrawal. There are no consequences to withdrawal from the research.
+
+## Your privacy 
+
+We will not collect personal information and we will present the data in a manner that retains anonymity of individuals. Thus, all information you provide will be anonymous. Also, we will keep all research material confidential. Only members of the research team will have access to the information provided and it will be stored on password protected computers or in locked offices at the University of Western Australia Campus, the University of South Pacific Campus, the University of Sydney Campus, the University of Auckland Campus, the Ministry of Agriculture, Fisheries and Food office (Tonga), or the Secretariat of the Pacific Community Campus (SPC). The data will be stored for a minimum of seven years after completion of the study.
+
+## Possible Benefits
+
+You will not receive any direct financial benefits from the project. However, your input will help us develop an application that will assist landscape managers in climate vulnerable regions in the South Pacific. We are very grateful for your valuable input, and would be very happy to provide you with updates about the tool development if you are interested. You can also check out our progress on our website.
+
+## Possible Risks and Risk Management Plan
+There are no foreseeable risk associated with this research. However, if you have any further issues or concerns please contact: A/Prof Bryan Boruff (bryan.boruff@uwa.edu.au)
+
+## Approvals 
+
+This application is being developed as part of a livelihoods and landscapes research project funded by the Australian Centre for International Agricultural Development – a collaboration between Australian, Fijian and Tongan organisations. In Tonga, the Ministry of Agriculture, Food, and Forests are a key project partner. 
+
+Approval to conduct this research has been provided by the University of Western Australia, in accordance with its ethics review and approval procedures. Any person considering participation in this research project, or agreeing to participate, may raise any questions or issues with the researchers at any time.
+
+You may raise ethics issues or concerns, and may make any complaints about this research project by contacting the Human Ethics Office at the University of Western Australia on (08) 6488 3703 or by emailing to humanethics@uwa.edu.au
+
+Yours Sincerely,
+
+Bryan Boruff
+
+Associate Professor
+
+<hr>
+
+*<b>Name of Researchers:</b> A/Prof Bryan Boruff, The University of Western Australia, and A/Prof Eleanor Bruce University of Sydney (co-PIs), Dr Nathan Wales University of the South Pacific, Mr Jen Helsen and John Oakeshott Secretariat of the Pacific Community (Fiji), Dr Viliami Manu Ministry of Agriculture, Food, Forests and Fisheries (Tonga), Dr Pyone Myat Thu University of Western Australia, Prof Andreas Neef University of Auckland, Prof John Connell University of Sydney, Dr Andrew Noble Stockholm Environment Institute Asia, Dr John Duncan University of Western Australia, and Dr Kevin Davies University of Sydney.*
